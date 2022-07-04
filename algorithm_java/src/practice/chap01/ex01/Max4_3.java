@@ -1,7 +1,7 @@
 package practice.chap01.ex01;
 import java.util.Scanner;
 
-class Max4_2 {
+class Max4_3 {
  
 	public static void main(String[] args) {
 		

@@ -1,7 +1,7 @@
 // 3개의 정숫값 가운데 최댓값을 구하여 출력
 package question.chap01;
 
-class Max3Method_2 {
+class Max3Method2 {
 	// a, b, c의 최댓값을 구하여 반환
 	static int max3(int a, int b, int c) {
 		

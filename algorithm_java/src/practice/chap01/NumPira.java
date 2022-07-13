@@ -1,4 +1,4 @@
-package practice.chap01.ex01;
+package practice.chap01;
 
 // 연습1-16
 // 숫자를 나열하여 피라미드를 출력

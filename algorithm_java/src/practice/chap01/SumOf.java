@@ -1,4 +1,4 @@
-package practice.chap01.ex01;
+package practice.chap01;
 
 // 연습1-8
 // 정수a, b를 포함하여 그 사이의 모든 정수의 총합을 구합니다

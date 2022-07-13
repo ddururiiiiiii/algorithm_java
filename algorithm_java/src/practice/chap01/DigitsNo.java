@@ -1,11 +1,11 @@
-package practice.chap01.ex01;
+package practice.chap01;
 
 // 연습1-10
 // 양의 정숫값의 자릿수를 구하여 출력
 
 import java.util.Scanner;
 
-class DigitsNo2 {
+class DigitsNo {
 
 	public static void main(String[] args) {
 		Scanner stdIn = new Scanner(System.in);

@@ -1,11 +1,10 @@
-package practice.chap01.ex01;
+package practice.chap01;
 
-
-// 입력한 정숫값을 판단(1)
+// 입력한 정숫값을 판단(2)(2의 본모습)
 
 import java.util.Scanner;
 
-class JudgeABC1 {
+class JudgeABC2x {
     public static void main(String[] args) {
         Scanner stdIn = new Scanner(System.in);
 
@@ -16,7 +15,9 @@ class JudgeABC1 {
             System.out.println("Ａ");
         else if (n == 2)
             System.out.println("Ｂ");
-        else
+        else if (n == 3)
             System.out.println("Ｃ");
+        else
+            ;
     }
 }

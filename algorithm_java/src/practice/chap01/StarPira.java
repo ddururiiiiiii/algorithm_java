@@ -1,4 +1,4 @@
-package practice.chap01.ex01;
+package practice.chap01;
 
 
 // 연습1-15

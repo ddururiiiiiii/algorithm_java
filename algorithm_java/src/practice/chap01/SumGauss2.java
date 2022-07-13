@@ -1,4 +1,4 @@
-package practice.chap01.ex01;
+package practice.chap01;
 
 // 연습1-7
 // 가우스 공식을 사용하여 1, 2, ..., n의 총합을 구합니다

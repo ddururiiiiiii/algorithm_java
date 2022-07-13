@@ -1,4 +1,4 @@
-package practice.chap01.ex01;
+package practice.chap01;
 
 // 연습1-4
 // 세 정숫값의 중앙값을 구하여 출력(모든 대소 관계에 대하여 검증)
